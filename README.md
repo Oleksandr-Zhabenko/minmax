@@ -5,7 +5,7 @@ The author would like to devote this project to support the [Foundation Gastrost
 
 The foundation founder is [Emma Kok](https://www.emmakok.nl).
 
-On the 06/01/2024 there is Sophie's Kok, a sister of Emma Kok, 19th Birthday (she is 18). Therefore, the version 0.1.0.0 is additionally devoted also to her.
+On the 06/01/2024 there is Sophie's Kok, a sister of Emma Kok, 19th Birthday (she is 18). Therefore, the versions 0.1.0.0 and 0.1.1.0 are additionally devoted also to her.
 
 Besides, you can support Ukraine and Ukrainian people. 
 
