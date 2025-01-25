@@ -21,6 +21,4 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
-Data/MinMax
-Data/MinMax3Plus
-Data/MinMax3Plus.hs
+result
